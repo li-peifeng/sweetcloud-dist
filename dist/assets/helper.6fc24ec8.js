@@ -1,0 +1,1 @@
+import{c as t}from"./index.656c0120.js";import{k as n,l as s,w as i,c6 as l}from"./index.3116ab02.js";function p(){const[c,e]=n(s.open_item_on_checkbox==="direct"),o=t("Alt"),r=t("Meta"),a=t("Control");return i(()=>{switch(s.open_item_on_checkbox){case"direct":{e(!0);break}case"with_ctrl":{e(l?r():a());break}case"with_alt":e(o())}}),c}export{p as u};
