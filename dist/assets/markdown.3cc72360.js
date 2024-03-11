@@ -1,0 +1,1 @@
+import{cO as r,e as n,bq as o,c8 as a,a0 as c,cp as s}from"./index.12aadc99.js";const u=()=>{const[e]=r();return n(s,{get loading(){return e.loading},get children(){return n(o,{get children(){var t;return(t=e())==null?void 0:t.content},get ext(){return a(c.obj.name)},toc:!0})}})};export{u as default};
