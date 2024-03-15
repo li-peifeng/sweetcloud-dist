@@ -1,1 +1,0 @@
-import{cS as r,e as n,bw as o,cc as a,a0 as c,ct as s}from"./index.d9e98605.js";const u=()=>{const[e]=r();return n(s,{get loading(){return e.loading},get children(){return n(o,{get children(){var t;return(t=e())==null?void 0:t.content},get ext(){return a(c.obj.name)},toc:!0})}})};export{u as default};
