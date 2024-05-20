@@ -1,0 +1,1 @@
+import{cS as r,c as n,aa as a,cd as o,a2 as c,a9 as s}from"./index.42ab32aa.js";const u=()=>{const[e]=r();return n(s,{get loading(){return e.loading},get children(){return n(a,{get children(){var t;return(t=e())==null?void 0:t.content},get ext(){return o(c.obj.name)},toc:!0})}})};export{u as default};
