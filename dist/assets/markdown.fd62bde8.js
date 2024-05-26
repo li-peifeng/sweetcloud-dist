@@ -1,1 +1,0 @@
-import{di as n,c as r,ab as a,cr as o,a3 as c,aa as s}from"./index.b0b471ca.js";const i=()=>{const[e]=n();return r(s,{get loading(){return e.loading},get children(){return r(a,{get children(){var t;return(t=e())==null?void 0:t.content},get ext(){return o(c.obj.name)},toc:!0})}})};export{i as default};
